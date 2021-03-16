@@ -1,2 +1,6 @@
 First commit
 Commit from user 2
+
+for (int i; i<4; i++){
+	cout << i ;
+}
